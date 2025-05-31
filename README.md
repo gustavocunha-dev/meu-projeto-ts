@@ -25,18 +25,19 @@ Este projeto contém um menu interativo em TypeScript para a prática de 18 exer
 
 2. No terminal, acesse a pasta do projeto:
 
-
+```
 cd meu-projeto-ts
-
+```
 Instale as dependências de solicitação (TypeScript e tipos para Node.js):
 
-
+```
 npm install
-
+```
 Compilar o código TypeScript:
-
+```
 npm run build
-
+```
 Execute o programa:
-
+```
 npm start
+```
